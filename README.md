@@ -1,24 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Jéssica</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate backend development student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicamosouza&label=Profile%20views&color=0e75b6&style=flat" alt="jessicamosouza" /> </p>
 
 <p align="left"> <a href="https://twitter.com/whatever_jess" target="blank"><img src="https://img.shields.io/twitter/follow/whatever_jess?logo=twitter&style=for-the-badge" alt="whatever_jess" /></a> </p>
 
-- 🔭 I’m currently working on [CS50x 2022](https://github.com/jessicamosouza/CS50x-2022)
+- 🔭 I’m currently working on [CS50x 2022](https://github.com/jessicamosouza/CS50x-2022) and BackEnd Development
 
 - 🌱 I’m currently learning **Python and Golang**
 
 - 👨‍💻 All of my projects are available at [https://jehh.dev](https://jehh.dev)
 
-- 💬 Ask me about **Algorithm, Python, Golang, C, CS50, Math**
+- 💬 Ask me about **Algorithm, Python, Golang, C and CS50**
 
 - 📫 How to reach me **twitter.com/whatever_jess**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jehhmarques/](https://www.linkedin.com/in/jehhmarques/)
 
-- ⚡ Fun fact **I'm a plant hoarder. I've lost count of the amount, but it's already over 80, for sure.**
+- ⚡ Fun fact 
+-   **I'm a plant hoarder. I've lost count of the amount, but it's already over 80, for sure.**
+-   **I read at least four books every month.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
