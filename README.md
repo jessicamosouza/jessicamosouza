@@ -36,6 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicamosouza&show_icons=true&locale=en" alt="jessicamosouza" /></p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicamosouza&" alt="jessicamosouza" /></p>
