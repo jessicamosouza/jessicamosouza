@@ -18,9 +18,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jehhmarques/](https://www.linkedin.com/in/jehhmarques/)
 
-- ⚡ Fun fact 
--   **I'm a plant hoarder. I've lost count of the amount, but it's already over 80, for sure.**
--   **I read at least four books every month.**
+- ⚡ Fun fact:
+- - **I'm a plant hoarder. I've lost count of the amount, but it's already over 80, for sure.**
+- - **I read at least four books every month.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
