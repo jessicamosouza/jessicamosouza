@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/whatever_jess" target="blank"><img src="https://img.shields.io/twitter/follow/whatever_jess?logo=twitter&style=for-the-badge" alt="whatever_jess" /></a> </p>
 
-- 🔭 I’m currently working on [CS50x 2022](https://github.com/jessicamosouza/CS50x-2022) and BackEnd Development
+- 🔭 I’m currently working on BackEnd Development
 
 - 🌱 I’m currently learning **Python and Golang**
 
