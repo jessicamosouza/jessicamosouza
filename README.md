@@ -28,7 +28,7 @@ I'm a Backend Development student at Faculdade Pitágoras looking for my very fi
 - 🌱 I’m currently learning Python, Golang and Java  
   
 
-- ⚡ Fun fact: I'm a gym rat and a plat hoarder   
+- ⚡ Fun fact: I'm a gym rat and a plant hoarder   
 
 
 </td><td valign="top" width="50%">
