@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a Backend Development student at Faculdade Pitágoras looking for my very first experience in the field. Up to now, I'm learning Python, Golang, and Java. I'm confident in my ability to learn new languages and stacks in a brief time.  
+I'm a Computer Science student at Universidade Estácio looking for my very first experience in the field. Up to now, I'm learning Python, Golang, and Java. I'm confident in my ability to learn new languages and stacks in a brief time.  
   
 
 <br/>  
