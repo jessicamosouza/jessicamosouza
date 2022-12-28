@@ -18,20 +18,8 @@
 
 
 ### Glad to see you here!  
-I'm a Computer Science student at Universidade Estácio looking for my very first experience in the field. Up to now, I'm learning Python, Golang, and Java. I'm confident in my ability to learn new languages and stacks in a brief time.  
+I'm a Computer Science student at Universidade Estácio looking for my very first experience in the field. Up to now, I'm learning Python, Golang, and Java.  
   
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Python, Golang and Java  
-  
-
-- ⚡ Fun fact: I'm a gym rat and a plant hoarder   
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://jehh.dev/assets/cat-kitty.gif" align="center" height="150" width="150" />
