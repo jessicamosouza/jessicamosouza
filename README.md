@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a Computer Science student at Universidade Estácio looking for my very first experience in the field. Up to now, I'm learning Python, Golang, and Java.  
+Software Engineer Intern and Computer Science student
   
 
 <div align="center">
