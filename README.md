@@ -44,15 +44,6 @@ Software Engineer Intern and Computer Science student
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>  
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jessicamosouza&&style=flat-square)  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>
