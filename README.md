@@ -1,5 +1,14 @@
 ## Hey 👋, I'm Jéssica  
+
+### Glad to see you here!  
+Software Engineer and Computer Science student
   
+
+<div align="center">
+<img src="https://jehh.dev/assets/cat-kitty.gif" align="center" height="150" width="150" />
+</div>  
+
+
 
 <a href="https://github.com/jessicamosouza" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,25 +19,10 @@
 <a href="https://linkedin.com/in/jehhmarques" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
-
-
-
-### Glad to see you here!  
-Software Engineer Intern and Computer Science student
-  
-
-<div align="center">
-<img src="https://jehh.dev/assets/cat-kitty.gif" align="center" height="150" width="150" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
-
-## Languages and Tools  
+## Stack  
 <div align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -41,10 +35,4 @@ Software Engineer Intern and Computer Science student
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>  
 
-
-
-</td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
