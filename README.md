@@ -31,8 +31,10 @@ Software Engineer and Computer Science student
 
 <br />
 
-#Bagdes
+## Bagdes
 <div align="left">  
+  
 [![An image of @jessicasouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jessicasouza)](https://holopin.io/@jessicasouza)
+
 [![An image of @jessicamosouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jessicamosouza)](https://holopin.io/@jessicamosouza)
 
