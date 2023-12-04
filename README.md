@@ -1,5 +1,5 @@
-## Hey :wave:, glad to see you here! :blush:
-I'm Jéssica :woman: </br>
+## Hey, glad to see you here!
+I'm Jéssica </br>
 Software Engineer and Computer Science student.
 
 ### You can find me here :sparkles:
